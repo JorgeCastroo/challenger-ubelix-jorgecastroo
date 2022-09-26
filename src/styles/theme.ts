@@ -6,8 +6,6 @@ export default {
     gray_one: "#333333",
     gray_two: "#4F4F4F",
     white: "#FFFFFF",
-    flag_background: "#D40000",
-  },
   fonts: {
     lato_regular: "Lato_400Regular",
     lato_bold: "Lato_700Bold",
